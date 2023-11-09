@@ -1,5 +1,6 @@
 # AI-Storytelling
-AI Storytelling is the AI project targeted to bring multiple functionalities like extracting characters, creating background and activities and joining them in creating an entire Audiobook. With initiation as natural language processing platform, the projects looks into computer vision in the coming future.
+
+This is Natural Language Processing project that targets on conversion of short stories to audiobooks with features of characters, voice, musical background and sound of activities generation. With the combination of these features, audiobook would be created. And, based on the success of the project, it could be extended with image or video processing features in upcoming days.
 
 Steps to Install:
 1. Install Python 3.9.0
