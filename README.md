@@ -6,4 +6,4 @@ Steps to Install:
 1. Install Python 3.9.0
 2. Install requirements by "pip install -r requirements.txt"
 3. Download en_core_web_sm by "python -m spacy download en_core_web_sm"
-4. Run "python main.py".
+4. Run main.ipynb.
