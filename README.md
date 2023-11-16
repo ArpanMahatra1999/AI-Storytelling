@@ -6,4 +6,7 @@ Steps to Install:
 1. Install Python 3.9.0
 2. Install requirements by "pip install -r requirements.txt"
 3. Download en_core_web_sm by "python -m spacy download en_core_web_sm"
-4. Run main.ipynb.
+4. Create folder 'stories', 'audiobooks' and 'conversions' at same level of 'assets'
+5. Add .txt file inside stories like 'stories/cafe_at_midnight.txt'
+6. Change .txt file in main.ipynb according to .txt file inside stories
+7. Run main.ipynb.

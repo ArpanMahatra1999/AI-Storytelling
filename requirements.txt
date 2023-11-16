@@ -1,2 +1,6 @@
 pandas~=2.1.2
 spacy~=3.7.2
+gtts~=2.4.0
+moviepy~=1.0.3
+librosa~=0.10.1
+soundfile~=0.12.1
